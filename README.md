@@ -1,5 +1,5 @@
 # GECCO 2020 code
-Code for the GECCO 2020 submission
+Code for the GECCO 2020 submission Non-Redundant Representation of Neural Networks for SafeCrossover Through Neuron Alignment
 
 This repository contains the notebook used in order to reproduce the experiments and the results in the GECCO paper (not yet on arxiv to avoid conflicts with the double blind policy).
 
